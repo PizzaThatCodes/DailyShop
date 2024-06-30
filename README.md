@@ -13,7 +13,7 @@ Welcome to DailyShop, a versatile Minecraft plugin designed to enhance your serv
 
 To start using DailyShop on your Minecraft server, follow these simple steps:
 
-1. Download the DailyShop plugin from the [BuiltByBit](builtbybit.com/resources/dailyshop.32696/).
+1. Download the DailyShop plugin from the [BuiltByBit](https://www.builtbybit.com/resources/dailyshop.32696/).
 2. Install the plugin on your Minecraft server by placing the downloaded JAR file into the plugins folder.
 3. Configure DailyShop according to your server's economic requirements and preferences.
 4. Explore the comprehensive [wiki](https://github.com/PizzaThatCodes/DailyShop/wiki/FAQ) for detailed information and frequently asked questions.
