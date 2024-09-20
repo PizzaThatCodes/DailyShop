@@ -1,5 +1,9 @@
 # DailyShop Minecraft Plugin
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.14_--_1.21-brightgreen)
+![License](https://img.shields.io/badge/License-CC0-blue.svg)
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
 Welcome to DailyShop, a versatile Minecraft plugin designed to enhance your server's economy management. With DailyShop, server administrators can effortlessly customize in-game economies, offering players a seamless buying and selling experience.
 
 ## Features
